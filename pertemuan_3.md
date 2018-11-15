@@ -5,9 +5,11 @@ Menggambar pattern bintang menggunakan loop for & if-else dengan input N (bilang
 1. Segitiga :
   INPUT : 3
   OUTPUT :
+  "
   *
   **
   ***
+"
 
   INPUT : 5
   OUTPUT :
