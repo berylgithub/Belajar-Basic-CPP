@@ -6,9 +6,9 @@ Menggambar pattern bintang menggunakan loop for & if-else dengan input N (bilang
   INPUT : 3
   OUTPUT :
   
-  x
-  xx
-  xxx
+  x\n
+  xx\n
+  xxx\n
 
 
   INPUT : 5
